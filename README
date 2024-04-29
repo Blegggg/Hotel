@@ -1,14 +1,14 @@
-# Scenario
+Scenario[^1]
 
-i have been hired by the Artemis Hotel to create a hotel management system. The system will be used by the hotel for managing customers bookings and their details.
+[^1]: I have been hired by the Artemis Hotel to create a hotel management system. The system will be used by the hotel for managing customers bookings and their details.
 
 The program system must be capable of providing the following information:
 
 Hotel Booking, Provides Hotel Rooms Info, Room Service, Billing and Record-Keeping.
 
-# Methods
+Methods[^2]
 
-· Analyse the detailed requirements using suitable methods, i.e. analysis by decomposition of requirements (breaking down the tasks into manageable parts)
+[^2]: · Analyse the detailed requirements using suitable methods, i.e. analysis by decomposition of requirements (breaking down the tasks into manageable parts)
 
 · Elements and functions table
 
@@ -36,3 +36,7 @@ Hotel Booking, Provides Hotel Rooms Info, Room Service, Billing and Record-Keepi
 
 · Test table to show that the system works.
 
+
+# Installations
+
+· The code for the hotel system uses 
