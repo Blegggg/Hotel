@@ -12,9 +12,11 @@
 
 
 
- # Extras[^4]
+# Extras[^4]
+
 > [!IMPORTANT]
 > [^4]: · The code for the hotel system uses a Csv file to import its information.
+
 
 
 
