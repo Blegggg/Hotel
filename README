@@ -1,10 +1,10 @@
 # Scenario
 
-You have been hired by the Artemis Hotel to create a hotel management system. The system will be used by the hotel for managing customers bookings and their details.
+i have been hired by the Artemis Hotel to create a hotel management system. The system will be used by the hotel for managing customers bookings and their details.
 
 The program system must be capable of providing the following information:
 
-Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Record-Keeping.
+Hotel Booking, Provides Hotel Rooms Info, Room Service, Billing and Record-Keeping.
 
 # Methods
 
@@ -16,7 +16,7 @@ Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Reco
 
 · Show the iterative development of the individual solutions with suitable testing throughout the process.
 
-· Test the final product with an appropriate test table and evaluate your solution against the detailed requirements you identified in the analysis.
+· Test the final product with an appropriate test table and evaluate the solution against the detailed requirements Iidentified in the analysis.
 
 # System Requirements
 
