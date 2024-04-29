@@ -8,15 +8,24 @@
 
 
 > [!NOTE]
-> # Methods[^2]
+> # Methods
 
-[^2]: · Analyse the detailed requirements using suitable methods, i.e. analysis by decomposition of requirements (breaking down the tasks into manageable parts). Elements and functions table. Algorithms / pseudocode or flow diagram. Show the iterative development of the individual solutions with suitable testing throughout the process. Test the final product with an appropriate test table and evaluate the solution against the detailed requirements Iidentified in the analysis.
+
+- [x] Analyse the detailed requirements using suitable methods, i.e. analysis by decomposition of requirements (breaking down the tasks into manageable parts).
+- [x]  Elements and functions table. Algorithms / pseudocode or flow diagram.
+- [x]  Show the iterative development of the individual solutions with suitable testing throughout the process.
+- [x]   Test the final product with an appropriate test table and evaluate the solution against the detailed requirements Iidentified in the analysis.
 
 
 > [!NOTE]
-> # System Requirements[^3]
+> # System Requirements
 
-[^3]: · Main Menu options Personal details: including type of room and service booked.Hotel room details: Type of room, number of persons, number of beds, what is included in the room i.e. on-suite, couch, TV etc. Bookings. Billing and payments. Record keeping guest records, guests and allocated rooms, vacancy of rooms, room services. Database CSV document for customer / guests’ details. Test table to show that the system works.
+
+- [x] Main Menu options Personal details: including type of room and service booked.
+- [x] Hotel room details: Type of room, number of persons, number of beds, what is included in the room i.e. on-suite, couch, TV etc.
+- [x]  Bookings. Billing and payments.
+- [x]  Record keeping guest records, guests and allocated rooms, vacancy of rooms, room services.
+- [x]   Database CSV document for customer / guests’ details. Test table to show that the system works.
 
 
 > [!IMPORTANT]
@@ -31,7 +40,6 @@
 
 > [!Warning]
 > # Code Used
-
 
 Import csv
 
