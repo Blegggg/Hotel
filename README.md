@@ -22,19 +22,19 @@ System Requirements[^3]
 
 [^3]: · Main Menu options
 
-[^3]: · Personal details: including type of room and service booked.
+· Personal details: including type of room and service booked.
 
-[^3]: · Hotel room details: Type of room, number of persons, number of beds, what is included in the room i.e. on-suite, couch, TV etc.
+· Hotel room details: Type of room, number of persons, number of beds, what is included in the room i.e. on-suite, couch, TV etc.
 
-[^3]: · Bookings
+· Bookings
 
-[^3]: · Billing and payments
+· Billing and payments
 
-[^3]: · Record keeping guest records, guests and allocated rooms, vacancy of rooms, room services
+· Record keeping guest records, guests and allocated rooms, vacancy of rooms, room services
 
-[^3]: · Database CSV document for customer / guests’ details
+· Database CSV document for customer / guests’ details
 
-[^3]: · Test table to show that the system works.
+· Test table to show that the system works.
 
 
 Installations[^4]
