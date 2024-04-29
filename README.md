@@ -11,11 +11,9 @@
 [^3]: · Main Menu options Personal details: including type of room and service booked.Hotel room details: Type of room, number of persons, number of beds, what is included in the room i.e. on-suite, couch, TV etc. Bookings. Billing and payments. Record keeping guest records, guests and allocated rooms, vacancy of rooms, room services. Database CSV document for customer / guests’ details. Test table to show that the system works.
 
 
-
-# Extras[^4]
-
 > [!IMPORTANT]
-> [^4]: · The code for the hotel system uses a Csv file to import its information.
+> # Extras[^4]
+[^4]: · The code for the hotel system uses a Csv file to import its information.
 
 
 
