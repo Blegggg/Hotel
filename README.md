@@ -18,5 +18,5 @@
 
 
 
- [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
