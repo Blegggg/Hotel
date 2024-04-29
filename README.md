@@ -25,7 +25,9 @@
 
 > [!Warning]
 > # Code Used
-· Import csv
+
+
+Import csv
 
 Def load_customer_data(file_path):
 
