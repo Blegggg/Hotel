@@ -24,9 +24,9 @@
 [^4]: · The code for the hotel system uses a Csv file to import its information.
 
 >[!Caution]
-> # Support
+> # Support[^5]
 
-For support, go here 👉: https://tenor.com/en-GB/view/zimozimo-gif-17951690764458914096
+[^5]: For support, go here 👉: https://tenor.com/en-GB/view/zimozimo-gif-17951690764458914096
 
 
 > [!Warning]
