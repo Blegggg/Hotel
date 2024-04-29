@@ -195,3 +195,6 @@ Else:
 
 Print(“Invalid choice. Please try again.”)
 
+# Support
+
+For support, go here 👉: https://tenor.com/en-GB/view/zimozimo-gif-17951690764458914096
