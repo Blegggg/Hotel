@@ -1,4 +1,4 @@
-Project has been completed and will not recieve changes.
+⚠Project has been completed and will not recieve changes.⚠
 
 
 > [!NOTE]
