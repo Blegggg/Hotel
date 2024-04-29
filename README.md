@@ -26,7 +26,7 @@
 >[!Caution]
 > # Support[^5]
 
-[^5]: For support, go here 👉: https://tenor.com/en-GB/view/zimozimo-gif-17951690764458914096
+[^5]: ## For support, go here 👉: https://tenor.com/en-GB/view/zimozimo-gif-17951690764458914096
 
 
 > [!Warning]
